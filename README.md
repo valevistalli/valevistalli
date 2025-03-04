@@ -1,39 +1,39 @@
-# ¡Hola! Soy Vale 👋
+# ¡Hi there! I'm Vale Vistalli👋
 
-Soy una **Ing Química** con 7 años de experiencia en el rubro industrial, actualmente estoy desarrollando un nuevo camino en el mundo IT, para lo cual estoy especializándome en **QA Automation** de la mano de **Globant University**. Mi enfoque está en aplicar toda mi experiencia en calidad para asegurar las mejores características del software mediante pruebas exhaustivas, buscando siempre la mejora continua y la eficiencia en los procesos.
+I am a **Chemical Engineer** with 7 years of experience in the industrial sector, spetialized in quality assurance. I am currently developing a new career path in the IT world, specializing in **QA Automation** through **Globant University**. My focus is on leveraging my expertise in quality assurance to ensure the reliability and efficiency of software, applying rigorous testing methodologies to meet industry standards and drive continuous improvement in processes.
 
-## Sobre mí
+## About me
 
-- 🎓 Ing Química / PG Project Management
-- 🌎 Dsfruto estudiar nuevos idiomas. Hablo español, inglés, italiano y alemán.
-- 💻 Conocimiento en desarrollo de lenguajes de programación como Python, SQL, JAVA.
-- 📚 Siempre interesada en seguir formándome continuamente.
-- 🚀 Actualmente estudiando en **Globant University** para desarrollar habilidades en **QA Automation** y profundizando en tecnologías como:
-- **GIT/GITHUB**: Introducción, ramas de trabajo, pull requests y desafíos integradores.
-- **INTRODUCCIÓN A QA**: SDLC, STLC, gestión de datos, documentación de defectos, y análisis de criticidad.
-- **TESTING MANUAL**: Fundamentos de calidad, herramientas de testeo, MySQL, y metodologías ágiles.
-- **INTRO A JAVA**: Primeros pasos, estructuras de control, arrays, bucles, y métodos.
-- **POO**: Encapsulamiento, clases, y evaluación de conceptos.
-- **JUnit, Maven, Mockito**: Pruebas automatizadas y frameworks para testing.
-- **WEB AUTOMATION**: Selenium, localizadores web, afirmaciones, y Page Object Model.
-- **API TESTING**: Introducción a API Testing y Rest Assured.
-- **PERFORMANCE TESTING**: JMeter, pruebas de carga y stress.
-- **Serenity & Screenplay**: Frameworks para pruebas automatizadas con patrones avanzados.
+- 🎓 Chemical Engineer / PG Project Management
+- 🌎 I enjoy studying new languages. I speak Spanish, English, Italian, and German.
+- 💻 Knowledge in programming language development such as Python, SQL, JAVA.
+- 📚 Always interested in continuous learning and development.
+- 🚀 Currently studying at **Globant University** to develop skills in **QA Automation** and deepening knowledge in technologies such as:
+- **GIT/GITHUB**: Introduction, work branches, pull requests, and integration challenges.
+- **QA INTRODUCTION**: SDLC, STLC, data management, defect documentation, and criticality analysis.
+- **MANUAL TESTING**: Quality fundamentals, testing tools, MySQL, and agile methodologies.
+- **INTRO TO JAVA**: First steps, control structures, arrays, loops, and methods.
+- **OOP**: Encapsulation, classes, and concept evaluation.
+- **JUnit, Maven, Mockito**: Automated testing and testing frameworks.
+- **WEB AUTOMATION**: Selenium, web locators, assertions, and Page Object Model.
+- **API TESTING**: Introduction to API Testing and Rest Assured.
+- **PERFORMANCE TESTING**: JMeter, load, and stress testing.
+- **Serenity & Screenplay**: Frameworks for automated testing with advanced patterns.
 
-- 💡 Mi objetivo es crecer como **QA Automation**, creando soluciones automatizadas que mejoren la calidad y los tiempos de entrega del software.
+- 💡 My goal is to grow as a **QA Automation** professional, creating automated solutions that improve the quality of the software and delivery times.
 
-## Tecnologías y herramientas que manejo actualmente:
+## Technologies and tools I currently work with:
 
-- **Lenguajes**: Python, Java, SQL
-- **Herramientas de testing**: JIRA
+- **Languages**: Python, Java, SQL
+- **Testing Tools**: JIRA
 - **CI/CD**: GitHub Actions
-- **Bases de datos**: MySQL
-- **Versionado**: Git, GitHub
+- **Databases**: MySQL
+- **Version Control**: Git, GitHub
 
 
 
-## Estemos en contacto!
+## Let’s stay in touch!
 
 - 🪪 [LinkedIn](www.linkedin.com/in/valeria-vistalli-ba8b78a9)
-- 📧 [Correo](vale.vistalli@gmail.com)
+- 📧 [Email](vale.vistalli@gmail.com)
 
